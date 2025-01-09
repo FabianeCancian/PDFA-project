@@ -30,3 +30,4 @@ The Palmer Penguins dataset is publicly available for educational and research p
 
 - [Project Description](https://github.com/andrewbeattycourseware/PFDA-courseware/blob/main/labs/Project%20Description.pdf)
 - [Data Source](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv)
+- [Atificial Inteligence tool to research and spelling check](https://chatgpt.com/)
