@@ -35,3 +35,4 @@ The Palmer Penguins dataset is publicly available for educational and research p
 - [Fill NA](https://www.w3schools.com/python/pandas/ref_df_fillna.asp)
 - [Fill NA FFILL code](https://www.geeksforgeeks.org/python-pandas-dataframe-fillna-to-replace-null-values-in-dataframe/)
 - [Sklearn ](https://www.geeksforgeeks.org/python-linear-regression-using-sklearn/)
+- [Insert Image](https://www.geeksforgeeks.org/insert-image-in-a-jupyter-notebook/)
