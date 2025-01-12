@@ -31,3 +31,6 @@ The Palmer Penguins dataset is publicly available for educational and research p
 - [Project Description](https://github.com/andrewbeattycourseware/PFDA-courseware/blob/main/labs/Project%20Description.pdf)
 - [Data Source](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv)
 - [Atificial Inteligence tool to research and spelling check](https://chatgpt.com/)
+- [Palmer Penguins analysis example](https://github.com/koustubh1317/penguinspecies/blob/main/predicting_penguins.ipynb)
+- [Fill NA](https://www.w3schools.com/python/pandas/ref_df_fillna.asp)
+- [Fill NA FFILL code](https://www.geeksforgeeks.org/python-pandas-dataframe-fillna-to-replace-null-values-in-dataframe/)
